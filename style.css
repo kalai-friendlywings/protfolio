@@ -1,0 +1,30 @@
+.banner{
+    background-image: url(/bootstrap\ bg\ 2.jpg);
+    padding: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body{
+    font-family: 'Heebo', sans-serif;
+font-family: 'Protest Riot', sans-serif;
+}
+#about{
+    padding: 100px 0px 10px 0px;
+}
+#skill{
+    padding-top: 100px;
+}
+.card{
+    position: relative;
+    top: 0%;
+}
+.card:hover{
+  filter: drop-shadow(8px 8px 10px #404142);
+  top:-30px;
+}
+.form-check-input{
+    color: aliceblue;
+}
+button{
+    position: center;
+}
