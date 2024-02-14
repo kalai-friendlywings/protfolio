@@ -1,6 +1,6 @@
 .banner{
     background-image: url(/bootstrap\ bg\ 2.jpg);
-    padding: 200px;
+    padding: 180px;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -11,7 +11,7 @@ font-family: 'Protest Riot', sans-serif;
 #about{
     padding: 100px 0px 10px 0px;
 }
-#skill{
+#skills{
     padding-top: 100px;
 }
 .card{
@@ -27,4 +27,7 @@ font-family: 'Protest Riot', sans-serif;
 }
 button{
     position: center;
+}
+img{
+    border-radius: 10px;
 }
